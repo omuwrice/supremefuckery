@@ -29,6 +29,7 @@ I write code that works, sometimes on the first try. I build across the full sta
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
 **Backend & Systems**
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
@@ -40,16 +41,6 @@ I write code that works, sometimes on the first try. I build across the full sta
 
 ---
 
-### 🚀 Notable Projects
-
-| Project | What it is |
-|--------|------------|
-| [**TheChatGPT**](https://github.com/supremefuckery/TheChatGPT) | ChatGPT integration with a custom Dev API — Java |
-| [**Chatapp-Flutter**](https://github.com/supremefuckery/Chatapp-Flutter) | Scalable real-time chat app with a modern stack |
-| [**BetterPunishments**](https://github.com/supremefuckery/BetterPunishments) | Minecraft plugin for efficient moderation |
-| [**mirror-x**](https://github.com/supremefuckery/mirror-x) | Python utility — half-assed, entirely mine |
-
----
 
 ### 📊 GitHub Stats
 
@@ -74,7 +65,7 @@ I write code that works, sometimes on the first try. I build across the full sta
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-supremefuckery-181717?style=for-the-badge&logo=github)](https://github.com/supremefuckery)
-[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-support-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black)](https://buymeacoffee.com)
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-support-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black)](https://buymeacoffee.com/honjomasamune)
 
 </div>
 
