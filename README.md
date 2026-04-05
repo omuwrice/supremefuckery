@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=35&pause=1000&color=BB6BD9&center=true&vCenter=true&width=500&lines=Hi,+I'm+Sidd;Raiden+Shogun+Main;I+use+Arch+btw;I+am+Napoleon" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=35&pause=1000&color=BB6BD9&center=true&vCenter=true&width=500&lines=Hi,+Omu+Rice+<3;;I+use+Arch+btw;I+am+Napoleon" alt="Typing SVG" />
   <br/>
   <img src="assets/raiden.gif" width="350" style="border-radius: 10px;" />
   <br/>
@@ -10,7 +10,7 @@
     <img src="https://skillicons.dev/icons?i=nodejs,tailwind,mongodb,vscode,vercel,arch&theme=dark" />
   </a>
   <br/><br/>
-  <a href="https://discord.com/users/1477310811188760659" target="_blank">
+  <a href="https://discord.com/users/1486391515960836207" target="_blank">
     <img src="https://lanyard.cnrad.dev/api/1477310811188760659?bg=0d1117&borderRadius=10px&idleMessage=SLEEPING&theme=dark&showDisplayName=true" />
   </a>
 
