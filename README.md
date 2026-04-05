@@ -17,29 +17,29 @@
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=BB6BD9&text=Profile%20Views&height=30&fontSize=20" alt="Profile Views Label" />
   <br/>
-  <img src="https://count.getloli.com/@supremefuckery?name=supremefuckery&theme=rule34&padding=5&offset=0&align=top&scale=1&pixelated=1&darkmode=auto" alt="Moe Counter" />
+  <img src="https://count.getloli.com/@omuwrice?name=omuwrice&theme=rule34&padding=5&offset=0&align=top&scale=1&pixelated=1&darkmode=auto" alt="Moe Counter" />
 
   <br/><br/>
   <p>
     <a href="https://discord.gg/njga" target="_blank">
       <img src="https://img.shields.io/badge/-Discord-5865F2?style=flat&logo=discord&logoColor=white" />
     </a>
-    <a href="https://www.instagram.com/allucidee/" target="_blank">
+    <a href="https://www.instagram.com/iusenyarchbtw/" target="_blank">
       <img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white" />
     </a>
 </p>
   <br/>
-  <img src="https://streak-stats.demolab.com?user=supremefuckery&theme=dark&hide_border=true&ring=BB6BD9&fire=BB6BD9&currStreakLabel=BB6BD9&sideLabels=8b949e&dates=8b949e" height="160"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=supremefuckery&theme=github_dark" height="160"/>
+  <img src="https://streak-stats.demolab.com?user=omuwrice&theme=dark&hide_border=true&ring=BB6BD9&fire=BB6BD9&currStreakLabel=BB6BD9&sideLabels=8b949e&dates=8b949e" height="160"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=omuwrice&theme=github_dark" height="160"/>
 </div>
 
 <div align="center">
   <br/><br/>
-  <a href="https://github.com/supremefuckery">
+  <a href="https://github.com/omuwrice">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/supremefuckery/supremefuckery/refs/heads/output/github-contribution-grid-snake-dark.svg">
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/supremefuckery/supremefuckery/refs/heads/output/github-contribution-grid-snake.svg">
-      <img alt="snake animation" src="https://raw.githubusercontent.com/supremefuckery/supremefuckery/refs/heads/output/github-contribution-grid-snake.svg">
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/omuwrice/omuwrice/refs/heads/output/github-contribution-grid-snake-dark.svg">
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/omuwrice/omuwrice/refs/heads/output/github-contribution-grid-snake.svg">
+      <img alt="snake animation" src="https://raw.githubusercontent.com/omuwrice/omuwrice/refs/heads/output/github-contribution-grid-snake.svg">
     </picture>
   </a>
 </div>
